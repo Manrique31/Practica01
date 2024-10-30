@@ -1,5 +1,6 @@
 package com.practica01.domain;
 
+
 import jakarta.persistence.*;
 import lombok.Data;
 
